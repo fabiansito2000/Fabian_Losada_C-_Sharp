@@ -1,0 +1,28 @@
+C:\Users\Admi\Downloads\RETOS y TAREAS\C# Sharp_FABIAN - Proyecto 4_Signo zodiacal\proyecto4\bin\Debug\net8.0\proyecto4.exe
+C:\Users\Admi\Downloads\RETOS y TAREAS\C# Sharp_FABIAN - Proyecto 4_Signo zodiacal\proyecto4\bin\Debug\net8.0\proyecto4.deps.json
+C:\Users\Admi\Downloads\RETOS y TAREAS\C# Sharp_FABIAN - Proyecto 4_Signo zodiacal\proyecto4\bin\Debug\net8.0\proyecto4.runtimeconfig.json
+C:\Users\Admi\Downloads\RETOS y TAREAS\C# Sharp_FABIAN - Proyecto 4_Signo zodiacal\proyecto4\bin\Debug\net8.0\proyecto4.dll
+C:\Users\Admi\Downloads\RETOS y TAREAS\C# Sharp_FABIAN - Proyecto 4_Signo zodiacal\proyecto4\bin\Debug\net8.0\proyecto4.pdb
+C:\Users\Admi\Downloads\RETOS y TAREAS\C# Sharp_FABIAN - Proyecto 4_Signo zodiacal\proyecto4\obj\Debug\net8.0\proyecto4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admi\Downloads\RETOS y TAREAS\C# Sharp_FABIAN - Proyecto 4_Signo zodiacal\proyecto4\obj\Debug\net8.0\proyecto4.AssemblyInfoInputs.cache
+C:\Users\Admi\Downloads\RETOS y TAREAS\C# Sharp_FABIAN - Proyecto 4_Signo zodiacal\proyecto4\obj\Debug\net8.0\proyecto4.AssemblyInfo.cs
+C:\Users\Admi\Downloads\RETOS y TAREAS\C# Sharp_FABIAN - Proyecto 4_Signo zodiacal\proyecto4\obj\Debug\net8.0\proyecto4.csproj.CoreCompileInputs.cache
+C:\Users\Admi\Downloads\RETOS y TAREAS\C# Sharp_FABIAN - Proyecto 4_Signo zodiacal\proyecto4\obj\Debug\net8.0\proyecto4.dll
+C:\Users\Admi\Downloads\RETOS y TAREAS\C# Sharp_FABIAN - Proyecto 4_Signo zodiacal\proyecto4\obj\Debug\net8.0\refint\proyecto4.dll
+C:\Users\Admi\Downloads\RETOS y TAREAS\C# Sharp_FABIAN - Proyecto 4_Signo zodiacal\proyecto4\obj\Debug\net8.0\proyecto4.pdb
+C:\Users\Admi\Downloads\RETOS y TAREAS\C# Sharp_FABIAN - Proyecto 4_Signo zodiacal\proyecto4\obj\Debug\net8.0\proyecto4.genruntimeconfig.cache
+C:\Users\Admi\Downloads\RETOS y TAREAS\C# Sharp_FABIAN - Proyecto 4_Signo zodiacal\proyecto4\obj\Debug\net8.0\ref\proyecto4.dll
+C:\Users\Admi\Downloads\Fabian_Losada_Practica_C#\proyecto4\bin\Debug\net8.0\proyecto4.exe
+C:\Users\Admi\Downloads\Fabian_Losada_Practica_C#\proyecto4\bin\Debug\net8.0\proyecto4.deps.json
+C:\Users\Admi\Downloads\Fabian_Losada_Practica_C#\proyecto4\bin\Debug\net8.0\proyecto4.runtimeconfig.json
+C:\Users\Admi\Downloads\Fabian_Losada_Practica_C#\proyecto4\bin\Debug\net8.0\proyecto4.dll
+C:\Users\Admi\Downloads\Fabian_Losada_Practica_C#\proyecto4\bin\Debug\net8.0\proyecto4.pdb
+C:\Users\Admi\Downloads\Fabian_Losada_Practica_C#\proyecto4\obj\Debug\net8.0\proyecto4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admi\Downloads\Fabian_Losada_Practica_C#\proyecto4\obj\Debug\net8.0\proyecto4.AssemblyInfoInputs.cache
+C:\Users\Admi\Downloads\Fabian_Losada_Practica_C#\proyecto4\obj\Debug\net8.0\proyecto4.AssemblyInfo.cs
+C:\Users\Admi\Downloads\Fabian_Losada_Practica_C#\proyecto4\obj\Debug\net8.0\proyecto4.csproj.CoreCompileInputs.cache
+C:\Users\Admi\Downloads\Fabian_Losada_Practica_C#\proyecto4\obj\Debug\net8.0\proyecto4.dll
+C:\Users\Admi\Downloads\Fabian_Losada_Practica_C#\proyecto4\obj\Debug\net8.0\refint\proyecto4.dll
+C:\Users\Admi\Downloads\Fabian_Losada_Practica_C#\proyecto4\obj\Debug\net8.0\proyecto4.pdb
+C:\Users\Admi\Downloads\Fabian_Losada_Practica_C#\proyecto4\obj\Debug\net8.0\proyecto4.genruntimeconfig.cache
+C:\Users\Admi\Downloads\Fabian_Losada_Practica_C#\proyecto4\obj\Debug\net8.0\ref\proyecto4.dll
