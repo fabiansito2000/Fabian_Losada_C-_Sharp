@@ -1,0 +1,28 @@
+C:\Users\Admi\Downloads\RETOS y TAREAS\C# Sharp_FABIAN - Proyecto 1_Calculadora de IMC (Indice de masa corporal)\proyecto1\bin\Debug\net8.0\proyecto1.exe
+C:\Users\Admi\Downloads\RETOS y TAREAS\C# Sharp_FABIAN - Proyecto 1_Calculadora de IMC (Indice de masa corporal)\proyecto1\bin\Debug\net8.0\proyecto1.deps.json
+C:\Users\Admi\Downloads\RETOS y TAREAS\C# Sharp_FABIAN - Proyecto 1_Calculadora de IMC (Indice de masa corporal)\proyecto1\bin\Debug\net8.0\proyecto1.runtimeconfig.json
+C:\Users\Admi\Downloads\RETOS y TAREAS\C# Sharp_FABIAN - Proyecto 1_Calculadora de IMC (Indice de masa corporal)\proyecto1\bin\Debug\net8.0\proyecto1.dll
+C:\Users\Admi\Downloads\RETOS y TAREAS\C# Sharp_FABIAN - Proyecto 1_Calculadora de IMC (Indice de masa corporal)\proyecto1\bin\Debug\net8.0\proyecto1.pdb
+C:\Users\Admi\Downloads\RETOS y TAREAS\C# Sharp_FABIAN - Proyecto 1_Calculadora de IMC (Indice de masa corporal)\proyecto1\obj\Debug\net8.0\proyecto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admi\Downloads\RETOS y TAREAS\C# Sharp_FABIAN - Proyecto 1_Calculadora de IMC (Indice de masa corporal)\proyecto1\obj\Debug\net8.0\proyecto1.AssemblyInfoInputs.cache
+C:\Users\Admi\Downloads\RETOS y TAREAS\C# Sharp_FABIAN - Proyecto 1_Calculadora de IMC (Indice de masa corporal)\proyecto1\obj\Debug\net8.0\proyecto1.AssemblyInfo.cs
+C:\Users\Admi\Downloads\RETOS y TAREAS\C# Sharp_FABIAN - Proyecto 1_Calculadora de IMC (Indice de masa corporal)\proyecto1\obj\Debug\net8.0\proyecto1.csproj.CoreCompileInputs.cache
+C:\Users\Admi\Downloads\RETOS y TAREAS\C# Sharp_FABIAN - Proyecto 1_Calculadora de IMC (Indice de masa corporal)\proyecto1\obj\Debug\net8.0\proyecto1.dll
+C:\Users\Admi\Downloads\RETOS y TAREAS\C# Sharp_FABIAN - Proyecto 1_Calculadora de IMC (Indice de masa corporal)\proyecto1\obj\Debug\net8.0\refint\proyecto1.dll
+C:\Users\Admi\Downloads\RETOS y TAREAS\C# Sharp_FABIAN - Proyecto 1_Calculadora de IMC (Indice de masa corporal)\proyecto1\obj\Debug\net8.0\proyecto1.pdb
+C:\Users\Admi\Downloads\RETOS y TAREAS\C# Sharp_FABIAN - Proyecto 1_Calculadora de IMC (Indice de masa corporal)\proyecto1\obj\Debug\net8.0\proyecto1.genruntimeconfig.cache
+C:\Users\Admi\Downloads\RETOS y TAREAS\C# Sharp_FABIAN - Proyecto 1_Calculadora de IMC (Indice de masa corporal)\proyecto1\obj\Debug\net8.0\ref\proyecto1.dll
+C:\Users\Admi\Downloads\Fabian_Losada_Practica_C#\proyecto1\bin\Debug\net8.0\proyecto1.exe
+C:\Users\Admi\Downloads\Fabian_Losada_Practica_C#\proyecto1\bin\Debug\net8.0\proyecto1.deps.json
+C:\Users\Admi\Downloads\Fabian_Losada_Practica_C#\proyecto1\bin\Debug\net8.0\proyecto1.runtimeconfig.json
+C:\Users\Admi\Downloads\Fabian_Losada_Practica_C#\proyecto1\bin\Debug\net8.0\proyecto1.dll
+C:\Users\Admi\Downloads\Fabian_Losada_Practica_C#\proyecto1\bin\Debug\net8.0\proyecto1.pdb
+C:\Users\Admi\Downloads\Fabian_Losada_Practica_C#\proyecto1\obj\Debug\net8.0\proyecto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admi\Downloads\Fabian_Losada_Practica_C#\proyecto1\obj\Debug\net8.0\proyecto1.AssemblyInfoInputs.cache
+C:\Users\Admi\Downloads\Fabian_Losada_Practica_C#\proyecto1\obj\Debug\net8.0\proyecto1.AssemblyInfo.cs
+C:\Users\Admi\Downloads\Fabian_Losada_Practica_C#\proyecto1\obj\Debug\net8.0\proyecto1.csproj.CoreCompileInputs.cache
+C:\Users\Admi\Downloads\Fabian_Losada_Practica_C#\proyecto1\obj\Debug\net8.0\proyecto1.dll
+C:\Users\Admi\Downloads\Fabian_Losada_Practica_C#\proyecto1\obj\Debug\net8.0\refint\proyecto1.dll
+C:\Users\Admi\Downloads\Fabian_Losada_Practica_C#\proyecto1\obj\Debug\net8.0\proyecto1.pdb
+C:\Users\Admi\Downloads\Fabian_Losada_Practica_C#\proyecto1\obj\Debug\net8.0\proyecto1.genruntimeconfig.cache
+C:\Users\Admi\Downloads\Fabian_Losada_Practica_C#\proyecto1\obj\Debug\net8.0\ref\proyecto1.dll
