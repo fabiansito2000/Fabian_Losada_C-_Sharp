@@ -1,0 +1,42 @@
+C:\Users\Admi\Downloads\RETOS y TAREAS\C# Sharp_FABIAN - Proyecto 2_Calculadora simple\proyecto2\bin\Debug\net8.0\proyecto2.exe
+C:\Users\Admi\Downloads\RETOS y TAREAS\C# Sharp_FABIAN - Proyecto 2_Calculadora simple\proyecto2\bin\Debug\net8.0\proyecto2.deps.json
+C:\Users\Admi\Downloads\RETOS y TAREAS\C# Sharp_FABIAN - Proyecto 2_Calculadora simple\proyecto2\bin\Debug\net8.0\proyecto2.runtimeconfig.json
+C:\Users\Admi\Downloads\RETOS y TAREAS\C# Sharp_FABIAN - Proyecto 2_Calculadora simple\proyecto2\bin\Debug\net8.0\proyecto2.dll
+C:\Users\Admi\Downloads\RETOS y TAREAS\C# Sharp_FABIAN - Proyecto 2_Calculadora simple\proyecto2\bin\Debug\net8.0\proyecto2.pdb
+C:\Users\Admi\Downloads\RETOS y TAREAS\C# Sharp_FABIAN - Proyecto 2_Calculadora simple\proyecto2\obj\Debug\net8.0\proyecto2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admi\Downloads\RETOS y TAREAS\C# Sharp_FABIAN - Proyecto 2_Calculadora simple\proyecto2\obj\Debug\net8.0\proyecto2.AssemblyInfoInputs.cache
+C:\Users\Admi\Downloads\RETOS y TAREAS\C# Sharp_FABIAN - Proyecto 2_Calculadora simple\proyecto2\obj\Debug\net8.0\proyecto2.AssemblyInfo.cs
+C:\Users\Admi\Downloads\RETOS y TAREAS\C# Sharp_FABIAN - Proyecto 2_Calculadora simple\proyecto2\obj\Debug\net8.0\proyecto2.csproj.CoreCompileInputs.cache
+C:\Users\Admi\Downloads\RETOS y TAREAS\C# Sharp_FABIAN - Proyecto 2_Calculadora simple\proyecto2\obj\Debug\net8.0\proyecto2.dll
+C:\Users\Admi\Downloads\RETOS y TAREAS\C# Sharp_FABIAN - Proyecto 2_Calculadora simple\proyecto2\obj\Debug\net8.0\refint\proyecto2.dll
+C:\Users\Admi\Downloads\RETOS y TAREAS\C# Sharp_FABIAN - Proyecto 2_Calculadora simple\proyecto2\obj\Debug\net8.0\proyecto2.pdb
+C:\Users\Admi\Downloads\RETOS y TAREAS\C# Sharp_FABIAN - Proyecto 2_Calculadora simple\proyecto2\obj\Debug\net8.0\proyecto2.genruntimeconfig.cache
+C:\Users\Admi\Downloads\RETOS y TAREAS\C# Sharp_FABIAN - Proyecto 2_Calculadora simple\proyecto2\obj\Debug\net8.0\ref\proyecto2.dll
+c:\Users\Admi\Downloads\proyecto2\bin\Debug\net8.0\proyecto2.exe
+C:\Users\Admi\Downloads\proyecto2\bin\Debug\net8.0\proyecto2.deps.json
+C:\Users\Admi\Downloads\proyecto2\bin\Debug\net8.0\proyecto2.runtimeconfig.json
+c:\Users\Admi\Downloads\proyecto2\bin\Debug\net8.0\proyecto2.dll
+c:\Users\Admi\Downloads\proyecto2\bin\Debug\net8.0\proyecto2.pdb
+c:\Users\Admi\Downloads\proyecto2\obj\Debug\net8.0\proyecto2.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Admi\Downloads\proyecto2\obj\Debug\net8.0\proyecto2.AssemblyInfoInputs.cache
+c:\Users\Admi\Downloads\proyecto2\obj\Debug\net8.0\proyecto2.AssemblyInfo.cs
+c:\Users\Admi\Downloads\proyecto2\obj\Debug\net8.0\proyecto2.csproj.CoreCompileInputs.cache
+c:\Users\Admi\Downloads\proyecto2\obj\Debug\net8.0\proyecto2.dll
+c:\Users\Admi\Downloads\proyecto2\obj\Debug\net8.0\refint\proyecto2.dll
+c:\Users\Admi\Downloads\proyecto2\obj\Debug\net8.0\proyecto2.pdb
+C:\Users\Admi\Downloads\proyecto2\obj\Debug\net8.0\proyecto2.genruntimeconfig.cache
+C:\Users\Admi\Downloads\proyecto2\obj\Debug\net8.0\ref\proyecto2.dll
+C:\Users\Admi\Downloads\Fabian_Losada_Practica_C#\proyecto2\bin\Debug\net8.0\proyecto2.exe
+C:\Users\Admi\Downloads\Fabian_Losada_Practica_C#\proyecto2\bin\Debug\net8.0\proyecto2.deps.json
+C:\Users\Admi\Downloads\Fabian_Losada_Practica_C#\proyecto2\bin\Debug\net8.0\proyecto2.runtimeconfig.json
+C:\Users\Admi\Downloads\Fabian_Losada_Practica_C#\proyecto2\bin\Debug\net8.0\proyecto2.dll
+C:\Users\Admi\Downloads\Fabian_Losada_Practica_C#\proyecto2\bin\Debug\net8.0\proyecto2.pdb
+C:\Users\Admi\Downloads\Fabian_Losada_Practica_C#\proyecto2\obj\Debug\net8.0\proyecto2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admi\Downloads\Fabian_Losada_Practica_C#\proyecto2\obj\Debug\net8.0\proyecto2.AssemblyInfoInputs.cache
+C:\Users\Admi\Downloads\Fabian_Losada_Practica_C#\proyecto2\obj\Debug\net8.0\proyecto2.AssemblyInfo.cs
+C:\Users\Admi\Downloads\Fabian_Losada_Practica_C#\proyecto2\obj\Debug\net8.0\proyecto2.csproj.CoreCompileInputs.cache
+C:\Users\Admi\Downloads\Fabian_Losada_Practica_C#\proyecto2\obj\Debug\net8.0\proyecto2.dll
+C:\Users\Admi\Downloads\Fabian_Losada_Practica_C#\proyecto2\obj\Debug\net8.0\refint\proyecto2.dll
+C:\Users\Admi\Downloads\Fabian_Losada_Practica_C#\proyecto2\obj\Debug\net8.0\proyecto2.pdb
+C:\Users\Admi\Downloads\Fabian_Losada_Practica_C#\proyecto2\obj\Debug\net8.0\proyecto2.genruntimeconfig.cache
+C:\Users\Admi\Downloads\Fabian_Losada_Practica_C#\proyecto2\obj\Debug\net8.0\ref\proyecto2.dll
